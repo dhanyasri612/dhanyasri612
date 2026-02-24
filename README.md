@@ -1,41 +1,76 @@
 # 👋 Hi, I'm Dhanyasri K
 
-🎓 B.E. Computer Science (AI & ML) | KPR Institute of Engineering and Technology  
-💻 Aspiring Frontend Developer | React.js Enthusiast | AI Integration Explorer  
+🎓 B.E. Computer Science and Engineering (AI & ML)  
+🏫 KPR Institute of Engineering and Technology (2023–2027)  
+💻 Aspiring Frontend & Full Stack Developer  
 📍 Tamil Nadu, India  
 
 ---
 
 ## 🚀 About Me
 
-I am a passionate Frontend Developer skilled in **React.js and JavaScript**, with hands-on experience building responsive web applications integrated with REST APIs.
+I am a passionate developer skilled in **React.js, Next.js, and JavaScript**, with experience building responsive web applications integrated with REST APIs and intelligent backend systems.
 
-I enjoy combining **clean UI design with intelligent backend systems**, especially projects involving:
-- 🔹 React + REST APIs
-- 🔹 JWT Authentication
-- 🔹 Smart backend logic
-- 🔹 Machine Learning model integration
+I enjoy combining:
 
-Currently focused on improving my **Full Stack Development** and **AI-powered Web Applications** skills.
+- 🎨 Clean UI Design
+- 🔐 Secure Authentication (JWT)
+- ⚙️ Smart Backend Logic
+- 🧠 AI Model Integration into Web Apps
+
+Currently focused on strengthening my **Full Stack Development** and **AI-powered Web Applications** expertise.
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### 💻 Languages
-JavaScript (ES6+), Python, Java, SQL, HTML5, CSS3  
+- JavaScript (ES6+)
+- Python
+- Java
+- SQL
+- HTML5
+- CSS3
 
 ### 🎨 Frontend
-React.js, Next.js, Bootstrap 5, Recharts  
+- React.js
+- Next.js (Full Stack React Framework)
+- Bootstrap 5
+- Recharts
 
 ### ⚙️ Backend
-Node.js, Django, Flask, REST APIs  
+- Node.js
+- Express.js
+- Django
+- Flask
+- REST APIs
+- JWT Authentication
+
+### 🗄️ Database
+- SQL
 
 ### 🧠 AI & ML
-CNN, TensorFlow, Machine Learning Fundamentals  
+- Machine Learning Fundamentals
+- CNN
+- TensorFlow
 
 ### 🧰 Tools
-Git, GitHub, VS Code, Figma  
+- Git
+- GitHub
+- VS Code
+- Figma
+
+---
+
+## 💼 Internship Experience
+
+### 🏢 Machine Learning Intern  
+**Nitroware Technologies Pvt Ltd (Jan 2025 – Feb 2025)**
+
+- Developed responsive web interface for medical image classification
+- Integrated CNN model predictions into web application
+- Worked on REST API communication
+- Documented deployment process
 
 ---
 
@@ -56,30 +91,12 @@ Git, GitHub, VS Code, Figma
 ### 📝 BlogSpace App
 - Authentication & protected routes
 - Full CRUD functionality
-- Clean and responsive UI
+- Clean responsive UI
 
 ### 🧠 Brain Tumor Detection (AI Integration)
 - Built CNN model for MRI classification
-- Integrated ML predictions into web interface
+- Integrated predictions into web interface
 - Medical image classification system
-
----
-
-## 💼 Internship Experience
-
-**Machine Learning Intern – Nitroware Technologies Pvt Ltd (Jan 2025 – Feb 2025)**  
-- Developed responsive medical image classification interface  
-- Integrated CNN predictions into web app  
-- Worked on REST API communication  
-
----
-
-## 🏆 Achievements & Certifications
-
-✔ HackerRank – Frontend Developer (React), SQL (Basic)  
-✔ NPTEL – Data Analytics with Python  
-✔ Udemy – Mastering React  
-✔ Infosys Springboard – AI & Generative AI  
 
 ---
 
@@ -91,8 +108,26 @@ Git, GitHub, VS Code, Figma
 
 ---
 
-## 📫 Connect With Me
+## 🏆 Certifications
+
+- HackerRank – Frontend Developer (React)
+- HackerRank – Problem Solving (Basic)
+- HackerRank – SQL (Basic)
+- Udemy – Mastering React
+- NPTEL – Data Analytics with Python
+- Infosys Springboard – AI & Generative AI
+- GUVI – HTML, CSS, JavaScript
+
+---
+
+## 🔗 Connect With Me
 
 📧 dhanyasrikalisamy@gmail.com  
-🔗 Add your LinkedIn link here  
-💡 Always open to internships, collaborations, and learning opportunities!
+🔗 GitHub: https://github.com/dhanyasri612  
+🔗 LinkedIn: https://www.linkedin.com/in/dhanyasri-k-6b6902299/
+🔗 LeetCode: https://leetcode.com/u/dhanyasrikalisamy/  
+🔗 HackerRank: https://www.hackerrank.com/profile/dhanyasrikalisa1 
+
+---
+
+💡 Open to internships, collaborations, and real-world development opportunities.
