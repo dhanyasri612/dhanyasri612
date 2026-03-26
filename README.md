@@ -1,24 +1,43 @@
-# 👋 Hi, I'm Dhanyasri K
+<!-- HERO SECTION -->
 
-🎓 B.E. Computer Science and Engineering (AI & ML)
-🏫 KPR Institute of Engineering and Technology (2023–2027)
-💻 Aspiring Frontend & Full Stack Developer
-📍 Tamil Nadu, India
+<table>
+  <tr>
+    <td>
+      <h1>👋 Hi, I'm <br> <b>DHANYASRI K</b></h1>
+      <p>
+        🎓 CSE (AI & ML) Student <br>
+        💻 Frontend & Full Stack Developer <br>
+        🧠 AI Enthusiast <br><br>
+        🚀 Passionate about building modern web applications
+      </p>
+
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=36BCF7&lines=Frontend+Developer;Full+Stack+Developer;AI+Enthusiast;React+%7C+Next.js+%7C+Node.js" />
+    </td>
+
+```
+<td>
+  <!-- 🔴 REPLACE IMAGE LINK BELOW -->
+  <img src="https://avatars.githubusercontent.com/u/00000000?v=4" width="200" style="border-radius: 50%;" />
+</td>
+```
+
+  </tr>
+</table>
 
 ---
 
 ## 🚀 About Me
 
-💡 Passionate developer skilled in **React.js, Next.js, and JavaScript**
-🔗 Experienced in building **responsive full-stack web applications**
-🧠 Interested in **AI-powered web applications & intelligent systems**
+💡 Passionate about building **scalable full-stack applications**
+⚡ Strong in **React.js, Next.js, and JavaScript**
+🧠 Exploring **AI-powered intelligent systems**
 
-✨ I love combining:
+✨ I enjoy working on:
 
-* 🎨 Clean UI Design
-* 🔐 Secure Authentication (JWT)
-* ⚙️ Smart Backend Logic
-* 🧠 AI Integration into Web Apps
+* 🎨 Clean & responsive UI
+* 🔐 Secure authentication systems
+* ⚙️ Backend logic & APIs
+* 🧠 AI + Web integration
 
 ---
 
@@ -58,69 +77,69 @@
 
 ---
 
-## 💼 Internship Experience
+## 💼 Experience
 
 ### 🏢 Machine Learning Intern
 
 **Nitroware Technologies Pvt Ltd (Jan 2025 – Feb 2025)**
 
-* Developed responsive UI for medical image classification
-* Integrated CNN model predictions into web app
+* Built UI for medical image classification
+* Integrated CNN predictions into web app
 * Worked with REST APIs
-* Documented deployment process
+* Documented deployment workflow
 
 ---
 
-## 📌 Featured Projects
+## 📌 Projects
 
 ### 🏨 Intelligent Room Booking System
 
-✔ Conflict-free scheduling using interval logic
-✔ JWT Authentication
-✔ SQL transaction handling
+✔ Smart scheduling with conflict detection
+✔ JWT authentication
+✔ SQL transactions
 
 ### 🌦 Weather Checker App
 
 ✔ React + Django REST API
-✔ Open-Meteo API integration
-✔ Recharts data visualization
+✔ Open-Meteo integration
+✔ Recharts visualization
 
-### 📝 BlogSpace App
+### 📝 BlogSpace
 
-✔ Full CRUD functionality
-✔ Authentication & protected routes
-✔ Responsive UI
+✔ Full CRUD app
+✔ Auth + protected routes
+✔ Responsive design
 
 ### 🧠 Brain Tumor Detection
 
-✔ CNN model for MRI classification
-✔ AI integrated into web interface
+✔ CNN-based MRI classification
+✔ AI integrated into web UI
 
 ---
 
 ## 🏆 Certifications
 
-* 🥇 HackerRank – Frontend Developer (React)
-* 🥈 HackerRank – Problem Solving
-* 🥉 HackerRank – SQL
-* 📜 Udemy – Mastering React
-* 📜 NPTEL – Data Analytics with Python
-* 📜 Infosys Springboard – AI & GenAI
-* 📜 GUVI – HTML, CSS, JavaScript
+* 🥇 Frontend Developer (React) – HackerRank
+* 🥈 Problem Solving – HackerRank
+* 🥉 SQL – HackerRank
+* 📜 Udemy – React
+* 📜 NPTEL – Data Analytics
+* 📜 Infosys – AI & GenAI
+* 📜 GUVI – Web Development
 
 ---
 
 ## 📊 GitHub Stats
 
-![Dhanyasri's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhanyasri612\&show_icons=true\&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dhanyasri612\&show_icons=true\&theme=tokyonight\&cache_seconds=1800)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dhanyasri612\&layout=compact\&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dhanyasri612\&layout=compact\&theme=tokyonight\&cache_seconds=1800)
 
 ---
 
 ## 🔗 Connect With Me
 
-📧 Email: [dhanyasrikalisamy@gmail.com](mailto:dhanyasrikalisamy@gmail.com)
+📧 [dhanyasrikalisamy@gmail.com](mailto:dhanyasrikalisamy@gmail.com)
 
 🔗 GitHub: https://github.com/dhanyasri612
 🔗 LinkedIn: https://www.linkedin.com/in/dhanyasri-k-6b6902299/
@@ -129,11 +148,9 @@
 
 ---
 
-## ✨ Fun Touch (Typing Animation)
+## ✨ Quote
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=36BCF7&center=true&vCenter=true&width=500&lines=Frontend+Developer;Full+Stack+Developer;AI+Enthusiast;React+%7C+Next.js+%7C+Node.js" />
-</p>
+> “Building impactful solutions with code, creativity, and intelligence.”
 
 ---
 
