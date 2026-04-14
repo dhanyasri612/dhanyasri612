@@ -29,61 +29,62 @@ I am a **Computer Science & Engineering** student specializing in **Artificial I
 
 ### 🌐 Frontend Engineering
 - **Frameworks:** React.js, Next.js, Bootstrap
-- **Styling:** Tailwind CSS, CSS3, Styled Components
+- **Styling:** Tailwind CSS, CSS3
 - **Core:** JavaScript (ES6+), TypeScript, HTML5
 
 ### 🏗️ Backend & Systems
 - **Runtimes:** Node.js, Express.js
 - **Frameworks:** Django (Python), Flask
-- **Databases:** MySQL, PostgreSQL, MongoDB, Redis
-- **Auth:** JWT, OAuth2, Session Management
+- **Databases:** MySQL, PostgreSQL, MongoDB
+- **Auth:** JWT, OAuth2
 
 ### 🧠 Intelligence & Data
 - **Libraries:** TensorFlow, PyTorch, Scikit-learn
 - **Processing:** NumPy, Pandas, OpenCV
-- **Concepts:** CNNs, RNNs, LLMs, Computer Vision
-
-### 🔧 DevOps & Tools
-- **Version Control:** Git, GitHub Actions
-- **Containerization:** Docker
-- **APIs:** Postman, REST, GraphQL
-- **Design:** Figma, Adobe XD
+- **Concepts:** CNNs, RNNs, LLMs
 
 ---
 
 ## 💼 Professional Experience
 
-### **Machine Learning Intern** **Nitroware Technologies Pvt Ltd** | *Jan 2025 – Feb 2025*
+### **Machine Learning Intern** | **Nitroware Technologies Pvt Ltd**
+*Jan 2025 – Feb 2025*
 - 🛠️ **System Architecture:** Developed a full-stack interface for a CNN-based medical imaging model.
 - 🔗 **API Integration:** Leveraged Django REST Framework to serve model predictions to a React frontend.
-- 📊 **Performance:** Optimized image preprocessing pipelines to reduce inference latency by 15%.
+- 📊 **Performance:** Optimized image preprocessing pipelines to reduce inference latency.
 - 📄 **Documentation:** Authored comprehensive guides for deployment and model maintenance.
 
 ---
 
-## 📌 Featured Projects
+## 📌 Featured Projects Portfolio
 
 <table border="0">
   <tr>
     <td width="50%">
       <h3>🧠 Brain Tumor Detection</h3>
-      <p>A deep learning application utilizing <b>CNN</b> to detect anomalies in MRI scans with high accuracy.</p>
-      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-    </td>
-    <td width="50%" align="center">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHRreXJpZ2h0X2FpX2Rlc2lnbl9naWZfYnZfMTIz/3o7TKSjP87qC2C4y8s/giphy.gif" width="80%" />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHRreXJpZ2h0X2NvZGVfcmV2aWV3X2dpZl9idl8xMjM/3oKIPnAiaMCws8nOsE/giphy.gif" width="80%" />
+      <p>A deep learning application utilizing <b>CNN</b> to detect anomalies in MRI scans with high accuracy and a modern web dashboard.</p>
+      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
     </td>
     <td width="50%">
       <h3>🏨 Intelligent Room Booking</h3>
-      <p>Smart scheduling engine with <b>JWT</b> auth and complex SQL transaction management to prevent conflicts.</p>
-      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-      <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+      <p>Smart scheduling engine with <b>JWT</b> auth and complex SQL transaction management to prevent booking conflicts.</p>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>🌦️ Weather Checker App</h3>
+      <p>Real-time weather tracking using <b>Open-Meteo API</b> and dynamic data visualization with Recharts.</p>
+      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+      <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
+    </td>
+    <td width="50%">
+      <h3>📝 BlogSpace</h3>
+      <p>Full-featured CRUD blogging platform with user authentication, responsive design, and markdown support.</p>
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+      <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
     </td>
   </tr>
 </table>
@@ -96,15 +97,10 @@ I am a **Computer Science & Engineering** student specializing in **Artificial I
   <table border="0">
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=dhanyasri612&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Main Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=dhanyasri612&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhanyasri612&layout=compact&theme=tokyonight&hide_border=true" alt="Langs" />
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhanyasri612&theme=tokyonight&hide_border=true" alt="Streak" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhanyasri612&layout=compact&theme=tokyonight&hide_border=true" />
       </td>
     </tr>
   </table>
@@ -121,10 +117,12 @@ I am a **Computer Science & Engineering** student specializing in **Artificial I
 
 ## 🏆 Honors & Certifications
 
+- 🤖 **Introduction to Large Language Models:** NPTEL/Google Cloud Certified.
 - 🥇 **Frontend Developer (React):** HackerRank Certified.
 - 🥈 **Data Analytics:** NPTEL - IIT Madras.
 - 🥉 **Generative AI:** Infosys Springboard Certification.
-- 📄 **Research:** Vision-Based Smart Parking Systems (Published 2025).
+- 📜 **SQL & Problem Solving:** HackerRank Gold Badge.
+- 📄 **Research:** *Vision-Based Smart Parking Systems* (Manuscript in progress for publication).
 
 ---
 
@@ -148,6 +146,6 @@ I am a **Computer Science & Engineering** student specializing in **Artificial I
 <br />
 
 <div align="center">
-  <p><i>"The best way to predict the future is to invent it." — Alan Kay</i></p>
+  <p><i>"The beautiful thing about learning is that nobody can take it away from you." — B.B. King</i></p>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=00b4d8&height=30&section=footer" width="100%" />
 </div>
