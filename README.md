@@ -15,7 +15,7 @@
         🚀 Passionate about building modern web applications
       </p>
 
-      <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=36BCF7&lines=Frontend+Developer;Full+Stack+Developer;AI+Enthusiast;React+%7C+Next.js+%7C+Node.js" />
+      <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=36BCF7&center=true&vCenter=true&lines=Frontend+Developer;Full+Stack+Developer;AI+Enthusiast;React+%7C+Next.js+%7C+Node.js" />
     </td>
 
     <td>
@@ -83,21 +83,25 @@
 <div align="center">
 
 ### 🏨 Intelligent Room Booking System
+<img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="60" />  
 ✔ Smart scheduling with conflict detection  
 ✔ JWT authentication  
 ✔ SQL transactions  
 
 ### 🌦 Weather Checker App
+<img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="60" />  
 ✔ React + Django REST API  
 ✔ Open-Meteo integration  
 ✔ Recharts visualization  
 
 ### 📝 BlogSpace
+<img src="https://media.giphy.com/media/26BRuo6sLetdllPAQ/giphy.gif" width="60" />  
 ✔ Full CRUD app  
 ✔ Auth + protected routes  
 ✔ Responsive design  
 
 ### 🧠 Brain Tumor Detection
+<img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="60" />  
 ✔ CNN-based MRI classification  
 ✔ AI integrated into web UI  
 
@@ -121,17 +125,26 @@
   <img src="https://github-readme-stats.vercel.app/api?username=dhanyasri612&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhanyasri612&theme=tokyonight" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhanyasri612&layout=compact&theme=tokyonight" />
+  <img src="https://github-profile-trophy.vercel.app/?username=dhanyasri612&theme=tokyonight&margin-w=15&margin-h=15" />
+</div>
+
+---
+
+## 🌟 Contribution Graph
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dhanyasri612&theme=tokyonight" />
 </div>
 
 ---
 
 ## 🔗 Connect With Me
-📧 [dhanyasrikalisamy@gmail.com](mailto:dhanyasrikalisamy@gmail.com)  
-
-🔗 GitHub: [dhanyasri612](https://github.com/dhanyasri612)  
-🔗 LinkedIn: [Dhanyasri K](https://www.linkedin.com/in/dhanyasri-k-6b6902299/)  
-🔗 LeetCode: [dhanyasrikalisamy](https://leetcode.com/u/dhanyasrikalisamy/)  
-🔗 HackerRank: [dhanyasrikalisa1](https://www.hackerrank.com/profile/dhanyasrikalisa1)  
+<p align="center">
+  <a href="mailto:dhanyasrikalisamy@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://github.com/dhanyasri612"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/dhanyasri-k-6b6902299/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://leetcode.com/u/dhanyasrikalisamy/"><img src="https://img.shields.io/badge/LeetCode-yellow?style=for-the-badge&logo=leetcode&logoColor=black"></a>
+  <a href="https://www.hackerrank.com/profile/dhanyasrikalisa1"><img src="https://img.shields.io/badge/HackerRank-darkgreen?style=for-the-badge&logo=hackerrank&logoColor=white"></a>
+</p>
 
 ---
 
