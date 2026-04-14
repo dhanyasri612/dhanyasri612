@@ -101,18 +101,12 @@ I am a **Computer Science & Engineering** student specializing in **Artificial I
 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dhanyasri612&show_icons=true&theme=radical&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhanyasri612&layout=compact&theme=radical" width="45%" />
   
-  <br/><br/>
   
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhanyasri612&theme=radical" width="94%" />
 </div>
 
-### 🐍 Contribution Journey
-<div align="center">
-  <img src="https://github-contribution-grid-snake.vercel.app/api?github=dhanyasri612&color_snake=%2336BCF7" alt="Snake Animation" />
-</div>
+
 
 ---
 
