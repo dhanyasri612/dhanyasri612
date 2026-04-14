@@ -117,12 +117,12 @@ I am a **Computer Science & Engineering** student specializing in **Artificial I
 
 ## 🏆 Honors & Certifications
 
-- 🤖 **Introduction to Large Language Models:** NPTEL/Google Cloud Certified.
+- 🤖 **Introduction to Large Language Models:** NPTEL.
 - 🥇 **Frontend Developer (React):** HackerRank Certified.
 - 🥈 **Data Analytics:** NPTEL - IIT Madras.
 - 🥉 **Generative AI:** Infosys Springboard Certification.
-- 📜 **SQL & Problem Solving:** HackerRank Gold Badge.
-- 📄 **Research:** *Vision-Based Smart Parking Systems* (Manuscript in progress for publication).
+- 📜 **SQL & Problem Solving:** HackerRank Badge.
+- 📄 **Research:** *Vision-Based Smart Parking Systems* (To be published).
 
 ---
 
