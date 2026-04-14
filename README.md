@@ -4,67 +4,40 @@
 </div>
 
 <!-- HERO SECTION -->
-<table>
-  <tr>
-    <td>
-      <h1>👋 Hi, I'm <br> <b>DHANYASRI K</b></h1>
-      <p>
-        🎓 CSE (AI & ML) Student <br>
-        💻 Frontend & Full Stack Developer <br>
-        🧠 AI Enthusiast <br><br>
-        🚀 Passionate about building modern web applications
-      </p>
+<div align="center">
+  <h1 style="font-family: 'Segoe UI', sans-serif;">👋 Hi, I'm <b>DHANYASRI K</b></h1>
+  <h3 style="font-family: 'Courier New', monospace;">🎓 CSE (AI & ML) Student | 💻 Full Stack Developer | 🧠 AI Enthusiast</h3>
+  <p>🚀 Passionate about building modern web applications</p>
 
-      <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=36BCF7&center=true&vCenter=true&lines=Frontend+Developer;Full+Stack+Developer;AI+Enthusiast;React+%7C+Next.js+%7C+Node.js" />
-    </td>
+  <!-- Animated coding GIF -->
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300" />
 
-    <td>
-      <!-- Replace with your GitHub profile image -->
-      <img src="https://avatars.githubusercontent.com/u/00000000?v=4" width="200" style="border-radius: 50%;" />
-    </td>
-  </tr>
-</table>
+  <!-- Typing animation -->
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=36BCF7&center=true&vCenter=true&lines=Frontend+Developer;Full+Stack+Developer;AI+Enthusiast;React+%7C+Next.js+%7C+Node.js" />
+</div>
 
 ---
 
 ## 🚀 About Me
-💡 Passionate about building **scalable full-stack applications**  
-⚡ Strong in **React.js, Next.js, and JavaScript**  
-🧠 Exploring **AI-powered intelligent systems**
+<div align="center">
+  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="120" />
+</div>
+
+💡 *Passionate about building scalable full-stack applications*  
+⚡ *Strong in React.js, Next.js, and JavaScript*  
+🧠 *Exploring AI-powered intelligent systems*
 
 ✨ I enjoy working on:
-* 🎨 Clean & responsive UI  
-* 🔐 Secure authentication systems  
-* ⚙️ Backend logic & APIs  
-* 🧠 AI + Web integration  
+- 🎨 Clean & responsive UI  
+- 🔐 Secure authentication systems  
+- ⚙️ Backend logic & APIs  
+- 🧠 AI + Web integration  
 
 ---
 
 ## ⚡ Tech Stack
 <div align="center">
-
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
-![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java)
-![SQL](https://img.shields.io/badge/SQL-orange?style=for-the-badge&logo=mysql)
-
-![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge&logo=bootstrap)
-
-![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
-![Django](https://img.shields.io/badge/Django-darkgreen?style=for-the-badge&logo=django)
-![Flask](https://img.shields.io/badge/Flask-grey?style=for-the-badge&logo=flask)
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-orange?style=for-the-badge&logo=tensorflow)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-blue?style=for-the-badge)
-
-![Git](https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/VSCode-blue?style=for-the-badge&logo=visual-studio-code)
-![Figma](https://img.shields.io/badge/Figma-purple?style=for-the-badge&logo=figma)
-
+  <img src="https://skillicons.dev/icons?i=js,python,java,mysql,react,nextjs,bootstrap,nodejs,express,django,flask,tensorflow,git,github,vscode,figma" />
 </div>
 
 ---
@@ -83,27 +56,20 @@
 <div align="center">
 
 ### 🏨 Intelligent Room Booking System
-<img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="60" />  
-✔ Smart scheduling with conflict detection  
-✔ JWT authentication  
-✔ SQL transactions  
+<img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="80" />  
+**✔ Smart scheduling | ✔ JWT auth | ✔ SQL transactions**
 
 ### 🌦 Weather Checker App
-<img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="60" />  
-✔ React + Django REST API  
-✔ Open-Meteo integration  
-✔ Recharts visualization  
+<img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="80" />  
+**✔ React + Django REST | ✔ Open-Meteo API | ✔ Recharts**
 
 ### 📝 BlogSpace
-<img src="https://media.giphy.com/media/26BRuo6sLetdllPAQ/giphy.gif" width="60" />  
-✔ Full CRUD app  
-✔ Auth + protected routes  
-✔ Responsive design  
+<img src="https://media.giphy.com/media/26BRuo6sLetdllPAQ/giphy.gif" width="80" />  
+**✔ Full CRUD | ✔ Auth routes | ✔ Responsive design**
 
 ### 🧠 Brain Tumor Detection
-<img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="60" />  
-✔ CNN-based MRI classification  
-✔ AI integrated into web UI  
+<img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="80" />  
+**✔ CNN MRI classification | ✔ AI web UI**
 
 </div>
 
@@ -128,6 +94,9 @@
   <img src="https://github-profile-trophy.vercel.app/?username=dhanyasri612&theme=tokyonight&margin-w=15&margin-h=15" />
 </div>
 
+<!-- Snake animation -->
+![Snake animation](https://github.com/dhanyasri612/dhanyasri612/blob/output/github-contribution-grid-snake.svg)
+
 ---
 
 ## 🌟 Contribution Graph
@@ -139,17 +108,21 @@
 
 ## 🔗 Connect With Me
 <p align="center">
-  <a href="mailto:dhanyasrikalisamy@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://github.com/dhanyasri612"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/dhanyasri-k-6b6902299/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://leetcode.com/u/dhanyasrikalisamy/"><img src="https://img.shields.io/badge/LeetCode-yellow?style=for-the-badge&logo=leetcode&logoColor=black"></a>
-  <a href="https://www.hackerrank.com/profile/dhanyasrikalisa1"><img src="https://img.shields.io/badge/HackerRank-darkgreen?style=for-the-badge&logo=hackerrank&logoColor=white"></a>
+  <a href="mailto:dhanyasrikalisamy@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://github.com/dhanyasri612"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"></a>
+  <a href="https://www.linkedin.com/in/dhanyasri-k-6b6902299/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="https://leetcode.com/u/dhanyasrikalisamy/"><img src="https://img.shields.io/badge/LeetCode-yellow?style=for-the-badge&logo=leetcode"></a>
+  <a href="https://www.hackerrank.com/profile/dhanyasrikalisa1"><img src="https://img.shields.io/badge/HackerRank-green?style=for-the-badge&logo=hackerrank"></a>
 </p>
 
 ---
 
 ## ✨ Quote
-> “Building impactful solutions with code, creativity, and intelligence.”
+<div align="center">
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="200" />
+</div>
+
+> 🌟 *“Building impactful solutions with code, creativity, and intelligence.”* 🌟
 
 ---
 
