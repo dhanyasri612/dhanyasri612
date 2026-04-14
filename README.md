@@ -1,16 +1,16 @@
 <!-- HEADER BANNER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:purple&height=200&section=header&text=Hi,+I'm+Dhanyasri!&fontSize=40&fontColor=fff&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=150&section=header&text=Dhanyasri%20K&fontSize=50&fontColor=fff&animation=fadeIn" />
 </div>
 
 <!-- HERO SECTION -->
 <div align="center">
-  <h1 style="font-family: 'Segoe UI', sans-serif;">👋 Hi, I'm <b>DHANYASRI K</b></h1>
+  <h2 style="font-family: 'Segoe UI', sans-serif;">👋 Hi, I'm <b>Dhanyasri K</b></h2>
   <h3 style="font-family: 'Courier New', monospace;">🎓 CSE (AI & ML) Student | 💻 Full Stack Developer | 🧠 AI Enthusiast</h3>
   <p>🚀 Passionate about building modern web applications</p>
 
   <!-- Animated coding GIF -->
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" />
 
   <!-- Typing animation -->
   <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=36BCF7&center=true&vCenter=true&lines=Frontend+Developer;Full+Stack+Developer;AI+Enthusiast;React+%7C+Next.js+%7C+Node.js" />
@@ -23,15 +23,10 @@
   <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="120" />
 </div>
 
-💡 *Passionate about building scalable full-stack applications*  
-⚡ *Strong in React.js, Next.js, and JavaScript*  
-🧠 *Exploring AI-powered intelligent systems*
-
-✨ I enjoy working on:
-- 🎨 Clean & responsive UI  
-- 🔐 Secure authentication systems  
-- ⚙️ Backend logic & APIs  
-- 🧠 AI + Web integration  
+✨ *I love turning ideas into scalable applications.*  
+💡 *Focused on AI + Web integration.*  
+🎨 *UI/UX perfectionist.*  
+🔐 *Security‑minded developer.*  
 
 ---
 
@@ -45,10 +40,10 @@
 ## 💼 Experience
 ### 🏢 Machine Learning Intern
 **Nitroware Technologies Pvt Ltd (Jan 2025 – Feb 2025)**  
-* Built UI for medical image classification  
-* Integrated CNN predictions into web app  
-* Worked with REST APIs  
-* Documented deployment workflow  
+- Built UI for medical image classification  
+- Integrated CNN predictions into web app  
+- Worked with REST APIs  
+- Documented deployment workflow  
 
 ---
 
@@ -57,41 +52,41 @@
 
 ### 🏨 Intelligent Room Booking System
 <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="80" />  
-**✔ Smart scheduling | ✔ JWT auth | ✔ SQL transactions**
+✔ Smart scheduling | ✔ JWT auth | ✔ SQL transactions  
 
 ### 🌦 Weather Checker App
 <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="80" />  
-**✔ React + Django REST | ✔ Open-Meteo API | ✔ Recharts**
+✔ React + Django REST | ✔ Open‑Meteo API | ✔ Recharts  
 
 ### 📝 BlogSpace
 <img src="https://media.giphy.com/media/26BRuo6sLetdllPAQ/giphy.gif" width="80" />  
-**✔ Full CRUD | ✔ Auth routes | ✔ Responsive design**
+✔ Full CRUD | ✔ Auth routes | ✔ Responsive design  
 
 ### 🧠 Brain Tumor Detection
 <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="80" />  
-**✔ CNN MRI classification | ✔ AI web UI**
+✔ CNN MRI classification | ✔ AI web UI  
 
 </div>
 
 ---
 
 ## 🏆 Certifications
-* 🥇 Frontend Developer (React) – HackerRank  
-* 🥈 Problem Solving – HackerRank  
-* 🥉 SQL – HackerRank  
-* 📜 Udemy – React  
-* 📜 NPTEL – Data Analytics  
-* 📜 Infosys – AI & GenAI  
-* 📜 GUVI – Web Development  
+- 🥇 Frontend Developer (React) – HackerRank  
+- 🥈 Problem Solving – HackerRank  
+- 🥉 SQL – HackerRank  
+- 📜 Udemy – React  
+- 📜 NPTEL – Data Analytics  
+- 📜 Infosys – AI & GenAI  
+- 📜 GUVI – Web Development  
 
 ---
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dhanyasri612&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhanyasri612&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhanyasri612&layout=compact&theme=tokyonight" />
-  <img src="https://github-profile-trophy.vercel.app/?username=dhanyasri612&theme=tokyonight&margin-w=15&margin-h=15" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dhanyasri612&show_icons=true&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhanyasri612&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhanyasri612&layout=compact&theme=radical" />
+  <img src="https://github-profile-trophy.vercel.app/?username=dhanyasri612&theme=radical&margin-w=15&margin-h=15" />
 </div>
 
 <!-- Snake animation -->
@@ -101,7 +96,7 @@
 
 ## 🌟 Contribution Graph
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dhanyasri612&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dhanyasri612&theme=radical" />
 </div>
 
 ---
@@ -127,7 +122,7 @@
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:purple,100:36BCF7&height=150&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer" />
 </div>
 
 💡 *Open to internships, collaborations, and exciting opportunities!* 🚀
