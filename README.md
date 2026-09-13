@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=soft&color=00b4d8&height=120&section=header&text=Dhanyasri%20K&fontSize=50&animation=fadeIn" width="80%" />
 
   <br/>
-
+ 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;AI+%26+ML+Engineer;Scalable+System+Architect;Open+Source+Contributor" alt="Typing SVG" />
   </a>
