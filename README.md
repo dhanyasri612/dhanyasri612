@@ -1,257 +1,148 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=00b4d8&height=120&section=header&text=Dhanyasri%20K&fontSize=50&animation=fadeIn" width="80%" />
 
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=12,14,16,18,20&height=180&section=header&text=Dhanyasri%20K&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=45" width="100%"/>
+  <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=18&duration=2800&pause=900&color=8B5CF6&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;AI+%26+ML+Engineer;Scalable+System+Architect;Open+Source+Contributor" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;AI+%26+ML+Engineer;Scalable+System+Architect;Open+Source+Contributor" alt="Typing SVG" />
+  </a>
 
-<br/>
-
-<a href="https://dhanyasri-k.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-Visit%20Website-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
-
+  <p align="center">
+    <a href="https://dhanyasri-k.vercel.app/" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-Check%20it%20out-00b4d8?style=for-the-badge&logo=vercel&logoColor=white" />
+    </a>
+  </p>
 </div>
 
-<br/>
+---
 
-<table>
-<tr>
-<td width="60%" valign="top">
+## 💫 About Me
 
-## Hello, I'm Dhanyasri 👋
+I am a **Computer Science & Engineering** student specializing in **Artificial Intelligence and Machine Learning**. I focus on creating seamless bridges between intelligent algorithms and modern, responsive web interfaces.
 
-I am a **Computer Science and Engineering student specializing in Artificial Intelligence and Machine Learning**.
+* 🌍 **Portfolio:** [dhanyasri-k.vercel.app](https://dhanyasri-k.vercel.app/)
+* 🔭 **In Progress:** Mastering Large Language Model (LLM) fine-tuning.
+* 🚀 **Experience:** Full-cycle development from UI design to cloud deployment.
+* 💡 **Mindset:** I believe that code is poetry, and efficiency is the ultimate goal.
 
-I enjoy building products that combine:
+<div align="right">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM20xeGZ6eGZ6eGZ6eGZ6eGZ6eGZ6eGZ6eGZ6eGZ6eGZ6eGZ6JnB0PWExJml0PWcmY3Q9cw/L1SxpL8CusD1N6N2N3/giphy.gif" width="120" />
+</div>
 
-* intelligent algorithms
-* clean and responsive interfaces
-* scalable backend systems
-* practical automation
-* data-driven decision making
+---
 
-Currently, I am exploring **LLMs, fine-tuning, AI engineering, full-stack development, and cloud deployment**.
+## 🛠️ Technical Expertise
 
-> Building useful things at the intersection of AI and software engineering.
+### 🌐 Frontend Engineering
+- **Frameworks:** React.js, Next.js, Bootstrap
+- **Styling:** Tailwind CSS, CSS3
+- **Core:** JavaScript (ES6+), TypeScript, HTML5
 
-</td>
-<td width="40%" valign="top">
+### 🏗️ Backend & Systems
+- **Runtimes:** Node.js, Express.js
+- **Frameworks:** Django (Python), Flask
+- **Databases:** MySQL, PostgreSQL, MongoDB
+- **Auth:** JWT, OAuth2
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhanyasri612&layout=compact&hide_border=true&bg_color=00000000&title_color=8B5CF6&text_color=64748B" width="100%"/>
+### 🧠 Intelligence & Data
+- **Libraries:** TensorFlow, PyTorch, Scikit-learn
+- **Processing:** NumPy, Pandas, OpenCV
+- **Concepts:** CNNs, RNNs, LLMs
 
-<br/>
+---
 
-<img src="https://komarev.com/ghpvc/?username=dhanyasri612&style=for-the-badge&color=8B5CF6&label=PROFILE+VIEWS" />
+## 💼 Professional Experience
 
-</td>
-</tr>
+### **Machine Learning Intern** | **Nitroware Technologies Pvt Ltd**
+*Jan 2025 – Feb 2025*
+- 🛠️ **System Architecture:** Developed a full-stack interface for a CNN-based medical imaging model.
+- 🔗 **API Integration:** Leveraged Django REST Framework to serve model predictions to a React frontend.
+- 📊 **Performance:** Optimized image preprocessing pipelines to reduce inference latency.
+- 📄 **Documentation:** Authored comprehensive guides for deployment and model maintenance.
+
+---
+
+## 📌 Featured Projects Portfolio
+
+<table border="0">
+  <tr>
+    <td width="50%">
+      <h3>🧠 Brain Tumor Detection</h3>
+      <p>A deep learning application utilizing <b>CNN</b> to detect anomalies in MRI scans with high accuracy and a modern web dashboard.</p>
+      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+    </td>
+    <td width="50%">
+      <h3>🏨 Intelligent Room Booking</h3>
+      <p>Smart scheduling engine with <b>JWT</b> auth and complex SQL transaction management to prevent booking conflicts.</p>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>🌦️ Weather Checker App</h3>
+      <p>Real-time weather tracking using <b>Open-Meteo API</b> and dynamic data visualization with Recharts.</p>
+      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+      <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
+    </td>
+    <td width="50%">
+      <h3>📝 BlogSpace</h3>
+      <p>Full-featured CRUD blogging platform with user authentication, responsive design, and markdown support.</p>
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+      <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
+    </td>
+  </tr>
 </table>
 
 ---
 
-## ✦ Tech Stack
+## 📊 Statistics & Activity
 
-<table>
-<tr>
-<td align="center" width="33%">
-
-### Frontend
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css" />
-
-<br/><br/>
-
-`React.js` · `Next.js`
-`JavaScript` · `TypeScript`
-`HTML5` · `CSS3`
-`Bootstrap` · `Tailwind CSS`
-
-</td>
-
-<td align="center" width="33%">
-
-### Backend
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,mysql,postgres,mongodb" />
-
-<br/><br/>
-
-`Node.js` · `Express.js`
-`Django` · `Flask`
-`MySQL` · `PostgreSQL`
-`MongoDB` · `JWT` · `OAuth2`
-
-</td>
-
-<td align="center" width="33%">
-
-### AI & Data
-
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv" />
-
-<br/><br/>
-
-`TensorFlow` · `PyTorch`
-`Scikit-learn` · `NumPy`
-`Pandas` · `OpenCV`
-`CNNs` · `RNNs` · `LLMs`
-
-</td>
-</tr>
-</table>
-
----
-
-## ✦ Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🧠 Brain Tumor Detection
-
-A CNN-based medical imaging project for detecting brain tumor patterns from MRI images.
-
-**Stack**
-
-`TensorFlow` `Python` `CNN`
-
-</td>
-<td width="50%" valign="top">
-
-### 📅 Intelligent Room Booking
-
-A smart scheduling platform with authentication, room allocation, and SQL transaction management.
-
-**Stack**
-
-`Node.js` `PostgreSQL` `JWT`
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 🌦️ Weather Checker
-
-A responsive weather application that consumes Open-Meteo data and presents information through visual charts.
-
-**Stack**
-
-`React` `Django` `Open-Meteo` `Recharts`
-
-</td>
-<td width="50%" valign="top">
-
-### ✍️ BlogSpace
-
-A full-stack blogging platform with CRUD operations, authentication, Markdown support, and responsive design.
-
-**Stack**
-
-`MongoDB` `Express.js` `Authentication`
-
-</td>
-</tr>
-</table>
-
----
-
-## ✦ Experience
-
-<table>
-<tr>
-<td width="20%" align="center">
-
-### 2025
-
-**Jan–Feb**
-
-</td>
-<td width="80%">
-
-### Machine Learning Intern
-
-**Nitroware Technologies Pvt Ltd**
-
-* Developed a full-stack interface for a CNN-based medical imaging model.
-* Connected Django REST Framework prediction APIs with a React frontend.
-* Worked on image preprocessing and prediction workflows.
-* Optimized preprocessing latency for smoother inference.
-* Prepared technical documentation for the application.
-
-</td>
-</tr>
-</table>
-
----
-
-## ✦ GitHub Activity
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=dhanyasri612&show_icons=true&hide_border=true&bg_color=00000000&title_color=8B5CF6&text_color=64748B&icon_color=EC4899&rank_icon=github" height="170"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dhanyasri612&hide_border=true&background=00000000&ring=8B5CF6&fire=EC4899&currStreakLabel=8B5CF6&sideLabels=64748B&dates=94A3B8" height="170"/>
-
+  
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhanyasri612&theme=radical" width="94%" />
 </div>
 
-<br/>
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dhanyasri612&bg_color=ffffff00&color=64748B&line=8B5CF6&point=EC4899&area=true&hide_border=true" width="95%"/>
-
-</div>
 
 ---
 
-## ✦ Certifications & Research
+## 🏆 Honors & Certifications
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-* **Introduction to Large Language Models** — NPTEL
-* **Frontend Developer — React** — HackerRank
-* **Data Analytics** — NPTEL, IIT Madras
-
-</td>
-<td width="50%" valign="top">
-
-* **Generative AI** — Infosys Springboard
-* **SQL & Problem Solving** — HackerRank
-* **Vision-Based Smart Parking Systems** — Research paper to be published
-
-</td>
-</tr>
-</table>
+- 🤖 **Introduction to Large Language Models:** NPTEL.
+- 🥇 **Frontend Developer (React):** HackerRank Certified.
+- 🥈 **Data Analytics:** NPTEL - IIT Madras.
+- 🥉 **Generative AI:** Infosys Springboard Certification.
+- 📜 **SQL & Problem Solving:** HackerRank Badge.
+- 📄 **Research:** *Vision-Based Smart Parking Systems* (To be published).
 
 ---
 
-## ✦ Connect With Me
+## 🤝 Let's Collaborate
 
 <div align="center">
-
-<a href="mailto:dhanyasrikalisamy@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<a href="https://www.linkedin.com/in/dhanyasri-k-6b6902299/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="https://github.com/dhanyasri612">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
+  <a href="https://dhanyasri-k.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="mailto:dhanyasrikalisamy@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/dhanyasri-k-6b6902299/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/dhanyasri612">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </div>
 
-<br/>
+<br />
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=120&section=footer" width="100%"/>
-
+  <p><i>"The beautiful thing about learning is that nobody can take it away from you." — B.B. King</i></p>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=00b4d8&height=30&section=footer" width="100%" />
 </div>
+     can we make different style readme with this current info
+   i didnt like this now , can u add different animations styles with the same contenet
