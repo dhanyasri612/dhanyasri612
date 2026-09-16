@@ -1,147 +1,247 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=00b4d8&height=120&section=header&text=Dhanyasri%20K&fontSize=50&animation=fadeIn" width="80%" />
 
-  <br/>
+# `>_ Dhanyasri K`
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;AI+%26+ML+Engineer;Scalable+System+Architect;Open+Source+Contributor" alt="Typing SVG" />
-  </a>
+### AI & ML Engineer · Full Stack Developer · Software Architect
 
-  <p align="center">
-    <a href="https://dhanyasri-k.vercel.app/" target="_blank">
-      <img src="https://img.shields.io/badge/Portfolio-Check%20it%20out-00b4d8?style=for-the-badge&logo=vercel&logoColor=white" />
-    </a>
-  </p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:0ea5e9,100:06b6d4&height=180&section=header&text=Building%20Intelligent%20Systems&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" />
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1200&color=22D3EE&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+%26+ML+Engineer;Scalable+System+Architect;Open+Source+Contributor" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<a href="https://dhanyasri-k.vercel.app/">
+  <img src="https://img.shields.io/badge/🌐_Portfolio-0f172a?style=for-the-badge&logoColor=white" />
+</a>
+<a href="mailto:dhanyasrikalisamy@gmail.com">
+  <img src="https://img.shields.io/badge/✉️_Email-0f172a?style=for-the-badge&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/dhanyasri-k-6b6902299/">
+  <img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
+</a>
+<a href="https://github.com/dhanyasri612">
+  <img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
 </div>
 
 ---
 
-## 💫 About Me
+## `01` — About Me
 
-I am a **Computer Science & Engineering** student specializing in **Artificial Intelligence and Machine Learning**. I focus on creating seamless bridges between intelligent algorithms and modern, responsive web interfaces.
+```yaml
+name: Dhanyasri K
+education: Computer Science & Engineering
+specialization: Artificial Intelligence & Machine Learning
 
-* 🌍 **Portfolio:** [dhanyasri-k.vercel.app](https://dhanyasri-k.vercel.app/)
-* 🔭 **In Progress:** Mastering Large Language Model (LLM) fine-tuning.
-* 🚀 **Experience:** Full-cycle development from UI design to cloud deployment.
-* 💡 **Mindset:** I believe that code is poetry, and efficiency is the ultimate goal.
+focus:
+  - Intelligent applications
+  - Full-stack development
+  - Scalable system architecture
+  - Machine learning systems
 
-<div align="right">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM20xeGZ6eGZ6eGZ6eGZ6eGZ6eGZ6eGZ6eGZ6eGZ6eGZ6eGZ6JnB0PWExJml0PWcmY3Q9cw/L1SxpL8CusD1N6N2N3/giphy.gif" width="120" />
+currently_learning:
+  - Large Language Model fine-tuning
+
+experience:
+  - UI design → Backend development → Model integration → Cloud deployment
+
+mindset: "Code is poetry. Efficiency is the ultimate goal."
+```
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM20xeGZ6eGZ6eGZ6eGZ6eGZ6JnB0PWExJml0PWcmY3Q9cw/L1SxpL8CusD1N6N2N3/giphy.gif" width="150" />
+
 </div>
 
 ---
 
-## 🛠️ Technical Expertise
+## `02` — Tech Stack
 
-### 🌐 Frontend Engineering
-- **Frameworks:** React.js, Next.js, Bootstrap
-- **Styling:** Tailwind CSS, CSS3
-- **Core:** JavaScript (ES6+), TypeScript, HTML5
+<div align="center">
 
-### 🏗️ Backend & Systems
-- **Runtimes:** Node.js, Express.js
-- **Frameworks:** Django (Python), Flask
-- **Databases:** MySQL, PostgreSQL, MongoDB
-- **Auth:** JWT, OAuth2
+### 🌐 Frontend
 
-### 🧠 Intelligence & Data
-- **Libraries:** TensorFlow, PyTorch, Scikit-learn
-- **Processing:** NumPy, Pandas, OpenCV
-- **Concepts:** CNNs, RNNs, LLMs
+<img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind,bootstrap" />
 
----
+### ⚙️ Backend & Databases
 
-## 💼 Professional Experience
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,django,flask,mysql,postgres,mongodb" />
 
-### **Machine Learning Intern** | **Nitroware Technologies Pvt Ltd**
-*Jan 2025 – Feb 2025*
-- 🛠️ **System Architecture:** Developed a full-stack interface for a CNN-based medical imaging model.
-- 🔗 **API Integration:** Leveraged Django REST Framework to serve model predictions to a React frontend.
-- 📊 **Performance:** Optimized image preprocessing pipelines to reduce inference latency.
-- 📄 **Documentation:** Authored comprehensive guides for deployment and model maintenance.
+### 🧠 AI / ML & Tools
 
----
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,git,github,docker,vercel" />
 
-## 📌 Featured Projects Portfolio
+</div>
 
-<table border="0">
-  <tr>
-    <td width="50%">
-      <h3>🧠 Brain Tumor Detection</h3>
-      <p>A deep learning application utilizing <b>CNN</b> to detect anomalies in MRI scans with high accuracy and a modern web dashboard.</p>
-      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-    </td>
-    <td width="50%">
-      <h3>🏨 Intelligent Room Booking</h3>
-      <p>Smart scheduling engine with <b>JWT</b> auth and complex SQL transaction management to prevent booking conflicts.</p>
-      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-      <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>🌦️ Weather Checker App</h3>
-      <p>Real-time weather tracking using <b>Open-Meteo API</b> and dynamic data visualization with Recharts.</p>
-      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-      <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
-    </td>
-    <td width="50%">
-      <h3>📝 BlogSpace</h3>
-      <p>Full-featured CRUD blogging platform with user authentication, responsive design, and markdown support.</p>
-      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-      <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
-    </td>
-  </tr>
+<br/>
+
+<table align="center">
+<tr>
+<td width="50%" valign="top">
+
+**Frontend Engineering**
+
+* React.js
+* Next.js
+* Bootstrap
+* Tailwind CSS
+* JavaScript (ES6+)
+* TypeScript
+* HTML5 / CSS3
+
+</td>
+<td width="50%" valign="top">
+
+**Backend & Systems**
+
+* Node.js / Express.js
+* Django / Flask
+* MySQL / PostgreSQL
+* MongoDB
+* JWT / OAuth2
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**Intelligence & Data**
+
+* TensorFlow
+* PyTorch
+* Scikit-learn
+* NumPy / Pandas
+* OpenCV
+* CNNs / RNNs / LLMs
+
+</td>
+<td width="50%" valign="top">
+
+**Engineering Focus**
+
+* REST APIs
+* Model Integration
+* Data Processing
+* System Architecture
+* Cloud Deployment
+* Performance Optimization
+
+</td>
+</tr>
 </table>
 
 ---
 
-## 📊 Statistics & Activity
+## `03` — Experience
 
+<img align="right" src="https://img.shields.io/badge/Machine%20Learning%20Intern-0ea5e9?style=for-the-badge" />
 
-<div align="center">
-  
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhanyasri612&theme=radical" width="94%" />
-</div>
+### Machine Learning Intern
 
+**Nitroware Technologies Pvt Ltd**
 
+`January 2025 → February 2025`
 
----
+* 🧠 Developed a full-stack interface for a CNN-based medical imaging model.
+* 🔗 Used Django REST Framework to serve model predictions to a React frontend.
+* ⚡ Optimized image preprocessing pipelines to reduce inference latency.
+* 📚 Authored deployment and model maintenance documentation.
 
-## 🏆 Honors & Certifications
-
-- 🤖 **Introduction to Large Language Models:** NPTEL.
-- 🥇 **Frontend Developer (React):** HackerRank Certified.
-- 🥈 **Data Analytics:** NPTEL - IIT Madras.
-- 🥉 **Generative AI:** Infosys Springboard Certification.
-- 📜 **SQL & Problem Solving:** HackerRank Badge.
-- 📄 **Research:** *Vision-Based Smart Parking Systems* (To be published).
+<br clear="right"/>
 
 ---
 
-## 🤝 Let's Collaborate
+## `04` — Featured Projects
 
 <div align="center">
-  <a href="https://dhanyasri-k.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  <a href="mailto:dhanyasrikalisamy@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/dhanyasri-k-6b6902299/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/dhanyasri612">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+
+### 🧠 Brain Tumor Detection
+
+A deep learning application utilizing **CNN** to detect anomalies in MRI scans with high accuracy and a modern web dashboard.
+
+`TensorFlow` `Python` `CNN`
+
+---
+
+### 🏨 Intelligent Room Booking
+
+A smart scheduling engine with **JWT authentication** and complex SQL transaction management to prevent booking conflicts.
+
+`Node.js` `PostgreSQL` `JWT`
+
+---
+
+### 🌦️ Weather Checker App
+
+Real-time weather tracking using the **Open-Meteo API**, with dynamic data visualization using Recharts.
+
+`React` `Django` `Open-Meteo API`
+
+---
+
+### 📝 BlogSpace
+
+A full-featured CRUD blogging platform with user authentication, responsive design, and Markdown support.
+
+`MongoDB` `Express.js` `CRUD`
+
 </div>
 
-<br />
+---
+
+## `05` — GitHub Activity
 
 <div align="center">
-  <p><i>"The beautiful thing about learning is that nobody can take it away from you." — B.B. King</i></p>
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=00b4d8&height=30&section=footer" width="100%" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dhanyasri612&theme=tokyonight&hide_border=true" width="90%" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dhanyasri612&theme=tokyo-night&hide_border=true&area=true" width="95%" />
+
 </div>
-     can we make different style readme with this current info
+
+---
+
+## `06` — Honors & Certifications
+
+|    | Achievement                                                          |
+| -- | -------------------------------------------------------------------- |
+| 🤖 | **Introduction to Large Language Models** — NPTEL                    |
+| 🥇 | **Frontend Developer (React)** — HackerRank Certified                |
+| 🥈 | **Data Analytics** — NPTEL, IIT Madras                               |
+| 🥉 | **Generative AI** — Infosys Springboard                              |
+| 📜 | **SQL & Problem Solving** — HackerRank Badge                         |
+| 📄 | **Research:** *Vision-Based Smart Parking Systems* — To be published |
+
+---
+
+## `07` — Let's Connect
+
+<div align="center">
+
+<a href="https://dhanyasri-k.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-06b6d4?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+<a href="mailto:dhanyasrikalisamy@gmail.com">
+  <img src="https://img.shields.io/badge/Email-06b6d4?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/dhanyasri-k-6b6902299/">
+  <img src="https://img.shields.io/badge/LinkedIn-06b6d4?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/dhanyasri612">
+  <img src="https://img.shields.io/badge/GitHub-06b6d4?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br/><br/>
+
+> *"The beautiful thing about learning is that nobody can take it away from you."*
+> — B.B. King
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:0ea5e9,100:0f172a&height=100&section=footer" width="100%" />
+
+</div>
